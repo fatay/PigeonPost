@@ -1,0 +1,48 @@
+body {
+	background: linear-gradient(180deg,rgba(171,194,234,1),rgba(177,175,255,1), rgba(100,160,246,1));
+}
+
+.eksi {
+	margin-top: 10%;
+}
+
+.logo {
+	max-width: 80%;
+    height: auto;
+	margin: auto;
+}
+
+.crs {
+	cursor : pointer;
+}
+
+.hr { 
+	display: block;
+    height: 8px;
+    border: 0;
+    border-top: 8px solid black;
+    margin: 1em 0;
+    padding: 0;
+	}
+
+footer {
+    margin-top:50px;
+    padding:10px;
+    width: 100%;
+	background-color: black;
+    color: #fff;
+    text-align: center;
+    border-top-right-radius: 10px; 
+    border-top-left-radius: 10px; 
+}
+    
+a{
+	color:white;
+	text-decoration:none;
+}
+
+.modal-body {
+    position: relative;
+    overflow-y: auto;
+    max-width: 90%;
+}
